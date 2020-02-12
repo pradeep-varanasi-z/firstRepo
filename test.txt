@@ -1,0 +1,1 @@
+In this demo, we are understanding about recursive merge when changes are done to the master branch while working with multiple branches. While merging it will not be FAST-FORWARD merge
