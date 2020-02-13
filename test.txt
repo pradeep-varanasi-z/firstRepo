@@ -1,3 +1,6 @@
-In this demo, we are understanding about recursive merge when changes are done to the master branch while working with multiple branches. While merging it will not be FAST-FORWARD merge
-
+In this demo, we are understanding about recursive merge 
+when changes are done to the master branch while working with multiple branches. 
+While merging it will not be FAST-FORWARD merge.
 We are going to create a conflict by changing data in this files
+
+A new line is added
